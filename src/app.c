@@ -10,7 +10,7 @@
 #include "utils/iniciar.c"
 #include "utils/input-int.c"
 
-void app(void) {
+int app(void) {
   gerenciador *g = (gerenciador *)malloc(sizeof(gerenciador));
   history *h = (history *)malloc(sizeof(history));
   Iniciar(g, h);
@@ -37,7 +37,7 @@ void app(void) {
         MostraHistory(h);
         break;
       case 0:
-        exit(1);
+        return 0;
       default:
         puts("Opção Inválida!");
         break;
