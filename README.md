@@ -34,4 +34,7 @@ Abra o programa (executando o comando: `./a.out`). Digite uma opção para come�
 
 ## Pra que isso?
 
-Esse programa serve para mostrar a utilidade de estruturas de dados como filas/(listas ?) duplamente encadeadas (usadas para a funcionalidade de avançar/voltar páginas) e filas/(listas ?) simplesmente encadeadas (usadas para guardar o histórico).
+Esse programa serve para mostrar a utilidade de estruturas de dados como:
+
+- **listas duplamente encadeadas** _(usadas para a funcionalidade de avançar/voltar páginas)_;
+- **listas simplesmente encadeadas** _(usadas para guardar o histórico)_.
