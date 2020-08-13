@@ -1,6 +1,6 @@
 # Browser Demo
 
-## O que é?
+## :thinking: O que é?
 
 Este app simula o comportamento de um gerenciador de páginas de um navegador nos seguintes requisitos:
 
