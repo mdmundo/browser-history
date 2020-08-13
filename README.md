@@ -4,7 +4,7 @@
 
 Este app simula o comportamento de um gerenciador de páginas de um navegador nos seguintes requisitos:
 
-- Armazena o histórico (As 5 últimas páginas acessadas).
+- Armazena o histórico _(As 5 últimas páginas acessadas)_.
 - Funções de avançar e voltar páginas.
 - Acessar novos links e armazená-los no histórico.
 
