@@ -1,4 +1,4 @@
-# Browser Demo
+# Browser History
 
 ## :thinking: O que é?
 
