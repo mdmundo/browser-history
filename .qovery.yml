@@ -1,0 +1,16 @@
+---
+application:
+  name: "browser-history"
+  project: "random"
+  organization: "QoveryCommunity"
+  storage:
+  - name: "images"
+    size: "200"
+    type: "fast_ssd"
+    mount_point: "/mnt/images"
+routers:
+- name: "main-browser-history"
+  routes:
+  - application_name: "browser-history"
+    paths:
+    - "/*"
